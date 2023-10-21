@@ -5,7 +5,7 @@ function SkillsAndProjects() {
     <section className='skillsAndProjects'>
       <div className='skills' id='skills'>
         <h1 className='cardHeading'>Skills</h1>
-        <img title='HTML' src='./svg logo/html-5-svgrepo-com.svg' alt='HTML' />
+        <img title='HTML' src='./svg logo/html-5-svgrepo-com.jpg' alt='HTML' />
         {/* Add more skill images */}
       </div>
       <div className='projects' id='projects'>
